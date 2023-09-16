@@ -16,3 +16,14 @@ Random Forest has several advantages over other algorithms. It takes less traini
 - K-Fold Cross Validation
 - Building Model using Random Forest Classifier
 - Conclusion
+
+## Packages Used
+- pandas
+- numpy
+- matplotlib.pyplot
+- seaborn
+- warnings
+- from sklearn.model_selection import train_test_split
+- from sklearn.model_selection import KFold
+- from sklearn.model_selection import cross_val_score
+- from sklearn.ensemble import RandomForestClassifier
