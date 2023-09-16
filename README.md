@@ -15,6 +15,7 @@ Random Forest has several advantages over other algorithms. It takes less traini
 - Splitting the data into Train and Test data
 - K-Fold Cross Validation
 - Building Model using Random Forest Classifier
+- Predictions and finding the Accuracy 
 - Conclusion
 
 ## Packages Used
